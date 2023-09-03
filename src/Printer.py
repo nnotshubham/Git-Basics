@@ -1,3 +1,5 @@
 print("Hello printer")
 
-print("hello version 3: version 5")
+print("Version 3: version 5")
+
+print("Hello new extension")
